@@ -1,9 +1,9 @@
 package Main;
 
-import Gui.Schachfeld;
+import Gui.Chessboard;
 
 public class Main {
     public static void main(String[] args) {
-        Schachfeld chess = new Schachfeld();
+        Chessboard chess = new Chessboard();
     }
 }

@@ -1,6 +1,6 @@
 package Figuren;
 
-public enum Typ {
+public enum FigureType {
     PAWN,
     ROOK,
     KNIGHT,
